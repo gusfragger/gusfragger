@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey there! 👋
 
-<!--
-**gusfragger/gusfragger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring web developer 💻 with a passion for building innovative and user-friendly web applications 🌐. I am currently pursuing a degree in software engineering 🎓 and actively learning through the Odin Project curriculum 📚. With a focus on web development 💻, I am eager to gain hands-on experience 🤓 and land my first junior developer job 💼.
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,py,git,figma)](https://skillicons.dev)
+
+
+## Contact
+
+Feel free to reach out to me if you have any questions or want to collaborate on a project! 🤝
+
+- Email: gpereira87@gmail.com
