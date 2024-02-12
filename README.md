@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm an aspiring web developer 💻 with a passion for building innovative and user-friendly web applications 🌐. I am currently pursuing a degree in software engineering 🎓 and actively learning through the Odin Project curriculum 📚. With a focus on web development 💻, I am eager to gain hands-on experience 🤓 and land my first junior developer job 💼.
+I'm an aspiring web developer 💻 with a passion for building innovative and user-friendly web applications 🌐. I am currently pursuing a degree in software engineering (estimate 2025 🎓) and actively learning through the Odin Project curriculum 📚. With a focus on web development 💻, I am eager to gain hands-on experience 🤓 and land my first junior developer job 💼.
 
 ## Skills
 
